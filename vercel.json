@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/about", "destination": "/pages/about/index.html" },
     { "source": "/faq", "destination": "/pages/faq/index.html" },
     { "source": "/disclaimer", "destination": "/pages/disclaimer/index.html" },
     { "source": "/privacy", "destination": "/pages/privacy/index.html" },
