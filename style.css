@@ -436,3 +436,15 @@ footer {
     margin: 10px auto;
   }
 }
+.page-title-banner {
+  background: linear-gradient(to right, #fdfcf9, #fffdf7);
+  text-align: center;
+  padding: 60px 20px 40px;
+}
+
+.page-title-banner h1 {
+  font-size: 36px;
+  color: #000;
+  font-weight: 600;
+  margin: 0;
+}
