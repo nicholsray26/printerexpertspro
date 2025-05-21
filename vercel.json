@@ -3,7 +3,7 @@
     { "source": "/about", "destination": "/pages/about/index.html" },
     { "source": "/contact", "destination": "/pages/contact/index.html" },
     { "source": "/solutions", "destination": "/pages/solutions/index.html" },
-    { "source": "/ssetup", "destination": "/pages/setup/index.html" },
+    { "source": "/setup", "destination": "/pages/setup/index.html" },
     { "source": "/faq", "destination": "/pages/faq/index.html" },
     { "source": "/disclaimer", "destination": "/pages/disclaimer/index.html" },
     { "source": "/privacy", "destination": "/pages/privacy/index.html" },
