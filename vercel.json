@@ -8,6 +8,6 @@
     { "source": "/disclaimer", "destination": "/pages/disclaimer/index.html" },
     { "source": "/privacy", "destination": "/pages/privacy/index.html" },
     { "source": "/terms", "destination": "/pages/terms/index.html" },
-    { "source": "/", "destination": "/index.html" }
+    { "source": "/", "destination": "/pages/printer-setup/index.html" }
   ]
 }
