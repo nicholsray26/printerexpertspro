@@ -3,11 +3,10 @@
     { "source": "/about", "destination": "/pages/about/index.html" },
     { "source": "/contact", "destination": "/pages/contact/index.html" },
     { "source": "/solutions", "destination": "/pages/solutions/index.html" },
-    { "source": "/printer-setup", "destination": "/pages/printer-setup/index.html" },
     { "source": "/faq", "destination": "/pages/faq/index.html" },
     { "source": "/disclaimer", "destination": "/pages/disclaimer/index.html" },
     { "source": "/privacy", "destination": "/pages/privacy/index.html" },
     { "source": "/terms", "destination": "/pages/terms/index.html" },
-    { "source": "/", "destination": "/pages/printer-setup/index.html" }
+    { "source": "/", "destination": "/index.html" }
   ]
 }
