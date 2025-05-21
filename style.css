@@ -437,14 +437,14 @@ footer {
   }
 }
 .page-title-banner {
-  background: linear-gradient(to right, #fdfcf9, #fffdf7);
   text-align: center;
   padding: 60px 20px 40px;
+  background: linear-gradient(to right, #fefefe, #fffcf4);
 }
 
 .page-title-banner h1 {
-  font-size: 36px;
+  font-size: 32px;
+  font-weight: bold;
   color: #000;
-  font-weight: 600;
   margin: 0;
 }
