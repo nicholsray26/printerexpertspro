@@ -8,5 +8,9 @@
     { "source": "/privacy", "destination": "/pages/privacy/index.html" },
     { "source": "/terms", "destination": "/pages/terms/index.html" },
     { "source": "/", "destination": "/index.html" }
+
+        { "source": "/connect", "destination": "/pages/connect/index.html" },
+    { "source": "/guide", "destination": "/pages/guide/index.html" },
+    { "source": "/updates", "destination": "/pages/updates/index.html" },
   ]
 }
